@@ -6,7 +6,7 @@
 		"/dist/index.js.map",
 		"/dist/index.d.ts"
 	],
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "A webpack loader around the 'favicon' package",
 	"keywords": [
 		"webpack",
