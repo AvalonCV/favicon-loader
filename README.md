@@ -1,0 +1,1 @@
+# A webpack loader to handle favicons!
